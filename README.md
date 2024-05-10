@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andreasmustofa" alt="andreasmustofa" /></a> </p>
 
-- 🔭 I’m currently working on [Vortex](vortex.so)
+- 🔭 I’m currently working on [Vortex](https://www.vortex.so/)
 
 - 🌱 I’m currently learning **Golang**
 
-- 👯 I’m stand for [Neon](neon.id)
+- 👯 I’m stand for [Neon](https://www.neon.id/)
 
-- 🤝 I’m creator of [Hasta System](hasta.id)
+- 🤝 I’m creator of [Hasta System](https://www.hasta.id/)
 
 - 👨‍💻 All of my projects are available at [github.com/andreasmustofa](github.com/andreasmustofa)
 
-- 📝 I regularly write articles on [candaro.my.id](candaro.my.id)
+- 📝 I regularly write articles on [candaro.my.id](www.candaro.my.id)
 
 - 💬 Ask me about **Laravel, Tailwind**
 
