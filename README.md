@@ -13,15 +13,15 @@
 
 - 🤝 I’m creator of [Hasta System](https://www.hasta.id/)
 
-- 👨‍💻 All of my projects are available at [github.com/andreasmustofa/andreasmustofa/](github.com/andreasmustofa/andreasmustofa/)
+- 👨‍💻 All of my projects are available at [Github/](github.com/andreasmustofa/andreasmustofa/)
 
-- 📝 I regularly write articles on [https://www.candaro.my.id/](https://www.candaro.my.id/)
+- 📝 I regularly write articles on [Candarp/](https://www.candaro.my.id/)
 
 - 💬 Ask me about **Laravel, Tailwind**
 
 - 📫 How to reach me **andreitnet.gny@gmail.com**
 
-- 📄 Know about my experiences [https://www.menuriskan.hi.link/](https://www.menuriskan.hi.link/)
+- 📄 Know about my experiences [Menuriskan/]([https://www.menuriskan.hi.link/)
 
 - ⚡ Fun fact **I think i'm bear**
 
