@@ -15,11 +15,11 @@
 
 - 👨‍💻 All of my projects are available at [Github/](github.com/andreasmustofa/andreasmustofa/)
 
-- 📝 I regularly write articles on [Candarp/](https://www.candaro.my.id/)
+- 📝 Catch me on [Candarp/](https://www.noctura.my.id/)
 
 - 💬 Ask me about **Laravel, Tailwind**
 
-- 📫 How to reach me **andreitnet.gny@gmail.com**
+- 📫 How to reach me **andforsolutiony@gmail.com**
 
 - 📄 Know about my experiences [Menuriskan/]([https://www.menuriskan.hi.link/)
 
