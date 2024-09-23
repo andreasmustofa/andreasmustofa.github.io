@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **Laravel, Tailwind**
 
-- 📫 How to reach me **andforsolutiony@gmail.com**
+- 📫 How to reach me **andforsolution@gmail.com**
 
 - 📄 Know about my experiences [Menuriskan/]([https://www.menuriskan.hi.link/)
 
