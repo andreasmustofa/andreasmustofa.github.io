@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Vortex](https://www.vortex.so/)
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **TypeScript**
 
 - 👯 I’m stand for [Neon](https://www.neon.id/)
 
@@ -15,9 +15,9 @@
 
 - 👨‍💻 All of my projects are available at [Github/](github.com/andreasmustofa/andreasmustofa/)
 
-- 📝 Catch me on [Candarp/](https://www.noctura.my.id/)
+- 📝 Catch me on [Noctura](https://www.noctura.my.id/)
 
-- 💬 Ask me about **Laravel, Tailwind**
+- 💬 Ask me about **Laravel, Tailwind, Javascript, Next.js, Vue.js, Nuxt**
 
 - 📫 How to reach me **andforsolution@gmail.com**
 
