@@ -16,7 +16,7 @@
         --secondary-color: #d9d7dd;
         --accent-color: #e7e4e6;
         --text-color: #2b2d42;
-        --light-bg: #121212;
+        --light-bg: #f8f9fa;
         --dark-bg: #121212;
         --card-bg: #ffffff;
         --border-color: #e9ecef;
@@ -1304,7 +1304,7 @@
           document.documentElement.setAttribute("data-theme", "dark");
           themeIcon.className = "fas fa-sun";
         } else {
-          document.documentElement.setAttribute("data-theme", "light");
+          document.documentElement.setAttribute("data-theme", "dark");
           themeIcon.className = "fas fa-moon";
         }
       }
@@ -1324,7 +1324,7 @@
         const isDark =
           document.documentElement.getAttribute("data-theme") === "dark";
         setTheme(!isDark);
-        localStorage.setItem("theme", isDark ? "light" : "dark");
+        localStorage.setItem("theme", isDark ? "dark" : "dark");
       });
 
       // Form submission (placeholder - would need backend implementation)
